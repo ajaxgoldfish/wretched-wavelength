@@ -1,0 +1,33 @@
+---
+title: 我的指南
+description: 这是一个示例 MDX 页面，可通过主页的 LinkCard 跳转进入。
+template: splash
+hero:
+  tagline: 欢迎来到我的指南！通过 LinkCard 跳转进入的示例页面。
+  image:
+    file: ../../../assets/houston.webp
+  actions:
+    - text: 返回主页
+      link: /
+      icon: right-arrow
+    - text: Example Guide
+      link: /guides/example/
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## 功能特点
+
+<CardGrid stagger>
+	<Card title="MDX 格式" icon="pencil">
+		支持 Markdown 和 JSX 组件，灵活编写内容。
+	</Card>
+	<Card title="多入口访问" icon="document">
+		可通过侧边栏和 LinkCard 访问本页面。
+	</Card>
+	<Card title="Starlight 集成" icon="add-document">
+		与 Starlight 文档主题完美集成。
+	</Card>
+</CardGrid>

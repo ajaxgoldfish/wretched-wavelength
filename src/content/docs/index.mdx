@@ -16,7 +16,15 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## 快速入口
+
+<LinkCard
+  title="我的指南"
+  href="/guides/my-guide/"
+  description="通过 LinkCard 跳转进入的示例 MDX 页面"
+/>
 
 ## Next steps
 
