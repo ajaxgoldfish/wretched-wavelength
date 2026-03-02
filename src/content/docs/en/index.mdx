@@ -1,0 +1,41 @@
+---
+title: About Me
+description: Welcome to my personal homepage.
+template: splash
+hero:
+  tagline: Hello, welcome to my personal homepage!
+  image:
+    file: ../../../assets/avatar.webp
+  actions:
+    - text: Blog
+      link: /blog/
+      icon: right-arrow
+---
+
+import { Card, CardGrid, Steps } from '@astrojs/starlight/components';
+
+## About Me
+
+<CardGrid >
+	<Card title="Profile" icon="pencil">
+		You can fill in your personal introduction here.
+	</Card>
+	<Card title="Skills" icon="document">
+		You can fill in your skills and expertise here.
+	</Card>
+	<Card title="Projects" icon="add-document">
+		You can fill in your project experience here.
+	</Card>
+	<Card title="Contact" icon="setting">
+		You can fill in your contact information here.
+	</Card>
+</CardGrid>
+
+## Timeline
+
+<Steps>
+1. **2023.06** — Started learning frontend development, completed first personal project
+2. **2024.01** — Contributed to open source projects, gained community recognition
+3. **2024.06** — Built technical blog, started sharing learning insights
+4. **2024.12** — Built personal documentation site with Starlight
+</Steps>

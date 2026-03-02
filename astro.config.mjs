@@ -6,19 +6,36 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: "Zachary's Blog",
+			title: {
+				'zh-CN': "Zachary's Blog",
+				en: "Zachary's Blog",
+			},
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: '简体中文',
+					lang: 'zh-CN',
+				},
+				en: {
+					label: 'English',
+					lang: 'en',
+				},
+			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
 					label: '博客',
+					translations: { en: 'Blog' },
 					autogenerate: { directory: 'blog' },
 				},
 				{
 					label: '项目',
+					translations: { en: 'Projects' },
 					autogenerate: { directory: 'projects' },
 				},
 				{
 					label: '笔记',
+					translations: { en: 'Notes' },
 					autogenerate: { directory: 'notes' },
 				},
 			],
