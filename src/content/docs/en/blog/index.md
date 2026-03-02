@@ -1,7 +1,6 @@
 ---
 title: Blog
 description: Blog post list and index.
-slug: blog
 ---
 
 Welcome to the blog!
