@@ -21,9 +21,6 @@ export default defineConfig({
 					lang: 'en',
 				},
 			},
-			editLink: {
-				baseUrl: 'https://github.com/zhangzongboStarlight/wretched-wavelength/edit/main/',
-			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
