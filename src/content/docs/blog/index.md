@@ -1,6 +1,7 @@
 ---
 title: 博客
 description: 博客文章列表与索引。
+slug: blog
 ---
 
 欢迎来到博客！
