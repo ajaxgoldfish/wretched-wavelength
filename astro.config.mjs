@@ -14,7 +14,6 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Example Guide', slug: 'guides/example' },
-						{ label: '我的指南', slug: 'guides/my-guide' },
 					],
 				},
 				{

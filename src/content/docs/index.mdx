@@ -7,24 +7,12 @@ hero:
   image:
     file: ../../assets/avatar.webp
   actions:
-    - text: 我的指南
-      link: /guides/my-guide/
-      icon: right-arrow
     - text: Example Guide
       link: /guides/example/
-      icon: external
-      variant: minimal
+      icon: right-arrow
 ---
 
-import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
-
-## 快速入口
-
-<LinkCard
-  title="我的指南"
-  href="/guides/my-guide/"
-  description="通过 LinkCard 跳转进入的示例 MDX 页面"
-/>
+import { Card, CardGrid } from '@astrojs/starlight/components';
 
 ## 关于我
 
