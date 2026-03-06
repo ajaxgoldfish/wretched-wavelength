@@ -1,13 +1,28 @@
 ---
 title: 文章目录
-description: 文章索引与分类导航。
+description: 文章索引与导航。
 ---
 
 欢迎来到文章目录！
 
-这里汇集了站内所有文章，可按分类浏览。
+这里汇集了站内所有文章。
 
-## 分类导航
+## 博客
 
-- [博客](/blog/) — 技术学习与项目分享
-- [回忆](/memories/) — 生活与工作的点滴记录
+- [第一篇博客](/blog/first-post/)
+- [Starlight 使用小技巧](/blog/starlight-tips/)
+
+## 回忆
+
+- [回忆2023年北京工作的日子](/memories/beijing-2023/)
+
+## 笔记
+
+- [Astro 入门指南](/notes/astro-guide/)
+- [editUrl 使用示例](/notes/editurl-demo/)
+- [前端基础笔记](/notes/frontend-basics/)
+
+## 项目
+
+- [项目 A](/projects/project-a/)
+- [项目 B](/projects/project-b/)
