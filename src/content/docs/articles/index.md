@@ -21,8 +21,3 @@ description: 文章索引与导航。
 - [Astro 入门指南](/notes/astro-guide/)
 - [editUrl 使用示例](/notes/editurl-demo/)
 - [前端基础笔记](/notes/frontend-basics/)
-
-## 项目
-
-- [项目 A](/projects/project-a/)
-- [项目 B](/projects/project-b/)
