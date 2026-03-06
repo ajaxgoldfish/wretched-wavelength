@@ -3,9 +3,10 @@ title: Articles
 description: Article index and navigation.
 ---
 
-Welcome to the articles index!
+> For modern tech people, blogging comes down to **technology** and **life**.  
+> In the AI era, technology feels a bit less central—so we've added **AI prompts** to the mix.
 
-All site articles are listed here.
+---
 
 ## Life Records
 
