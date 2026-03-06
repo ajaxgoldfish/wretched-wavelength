@@ -11,8 +11,8 @@ All site articles are listed here.
 
 - [Recalling the days of working in Beijing in 2023](/memories/beijing-2023/)
 
-## Notes
+## AI Prompts
 
-- [Astro Getting Started Guide](/notes/astro-guide/)
-- [editUrl Usage Example](/notes/editurl-demo/)
-- [Frontend Basics](/notes/frontend-basics/)
+- [Astro Getting Started Guide](/ai-prompts/astro-guide/)
+- [editUrl Usage Example](/ai-prompts/editurl-demo/)
+- [Frontend Basics](/ai-prompts/frontend-basics/)

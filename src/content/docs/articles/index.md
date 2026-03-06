@@ -11,8 +11,8 @@ description: 文章索引与导航。
 
 - [回忆2023年北京工作的日子](/memories/beijing-2023/)
 
-## 笔记
+## AI提示词
 
-- [Astro 入门指南](/notes/astro-guide/)
-- [editUrl 使用示例](/notes/editurl-demo/)
-- [前端基础笔记](/notes/frontend-basics/)
+- [Astro 入门指南](/ai-prompts/astro-guide/)
+- [editUrl 使用示例](/ai-prompts/editurl-demo/)
+- [前端基础笔记](/ai-prompts/frontend-basics/)

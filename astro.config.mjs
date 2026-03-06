@@ -29,9 +29,9 @@ export default defineConfig({
 					autogenerate: { directory: 'articles' },
 				},
 				{
-					label: '笔记',
-					translations: { en: 'Notes' },
-					autogenerate: { directory: 'notes' },
+					label: 'AI提示词',
+					translations: { en: 'AI Prompts' },
+					autogenerate: { directory: 'ai-prompts' },
 				},
 				{
 					label: '回忆',
