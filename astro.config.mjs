@@ -34,9 +34,9 @@ export default defineConfig({
 					autogenerate: { directory: 'ai-prompts' },
 				},
 				{
-					label: '回忆',
-					translations: { en: 'Memories' },
-					autogenerate: { directory: 'memories' },
+					label: '生活记录',
+					translations: { en: 'Life Records' },
+					autogenerate: { directory: 'life-records' },
 				},
 			],
 		}),

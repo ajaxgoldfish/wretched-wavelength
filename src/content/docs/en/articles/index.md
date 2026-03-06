@@ -7,9 +7,9 @@ Welcome to the articles index!
 
 All site articles are listed here.
 
-## Memories
+## Life Records
 
-1. [Recalling the days of working in Beijing in 2023](/en/memories/beijing-2023/)
+1. [Recalling the days of working in Beijing in 2023](/en/life-records/beijing-2023/)
 
 ## AI Prompts
 
