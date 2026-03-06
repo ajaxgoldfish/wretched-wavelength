@@ -38,6 +38,11 @@ export default defineConfig({
 					translations: { en: 'Life Records' },
 					autogenerate: { directory: 'life-records' },
 				},
+				{
+					label: '技术文章',
+					translations: { en: 'Tech Articles' },
+					autogenerate: { directory: 'tech-articles' },
+				},
 			],
 		}),
 	],

@@ -11,6 +11,8 @@ description: 文章索引与导航。
 
 1. [回忆2023年北京工作的日子](/life-records/beijing-2023/)
 
+## 技术文章
+
 ## AI提示词
 
 1. [Astro 入门指南](/ai-prompts/astro-guide/)

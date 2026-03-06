@@ -11,6 +11,8 @@ All site articles are listed here.
 
 1. [Recalling the days of working in Beijing in 2023](/en/life-records/beijing-2023/)
 
+## Tech Articles
+
 ## AI Prompts
 
 1. [Astro Getting Started Guide](/en/ai-prompts/astro-guide/)
