@@ -29,11 +29,6 @@ export default defineConfig({
 					autogenerate: { directory: 'articles' },
 				},
 				{
-					label: '博客',
-					translations: { en: 'Blog' },
-					autogenerate: { directory: 'blog' },
-				},
-				{
 					label: '笔记',
 					translations: { en: 'Notes' },
 					autogenerate: { directory: 'notes' },
